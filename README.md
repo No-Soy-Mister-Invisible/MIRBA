@@ -14,7 +14,7 @@ We do not encourage the use, distribution, or modification of any malicious code
 
 ## **Documented Backdoors**
 
-- **Tidal Serverside** ([Link to Analysis](https://github.com/No-Soy-Mister-Invisible/MIRBA/tree/main/Tidal%20Serverside))
+- **Tidal Serverside** ([Link to Analysis](https://github.com/No-Soy-Mister-Invisible/MIRBA/tree/main/Tidal%20Serverside/Tidal.md))
 
 More backdoors will be added as they are discovered and analyzed.
 
